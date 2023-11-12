@@ -4,7 +4,6 @@
 #include <iostream>
 
 // 2023-05-23 23:03:44 this code is cursed
-// 2023-05-25 15:35:23 vlod if you can read this you are a ********
 
 struct App {
     std::string appName;
